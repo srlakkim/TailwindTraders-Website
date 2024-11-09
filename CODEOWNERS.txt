@@ -1,0 +1,6 @@
+#In this example , any change in this repo 
+# will require approval from @srlakkim
+* @srlakkim
+
+# Any change inside '/Documents' directory will require approval from anyone in the org team docsteam
+/Documents @TailwindTraders-Website/docsteam
