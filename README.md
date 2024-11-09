@@ -4,6 +4,7 @@
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
 
+I can link an issue to a piece of work to get traceability.
 
 # Repositories
 
